@@ -16,11 +16,11 @@ and implementation in Python.
     
 ## Understanding and Visualising data
  
-Using Pandas, Matplotlib and Seaborn to describe and visualise a dataset
+Pandas, Matplotlib and Seaborn
  
  ### Univariate Data
- Using Seaborn Tips dataset create histograms and box plots [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/univariate_data.ipynb)]
+ Create histograms and box plots [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/univariate_data.ipynb)]
  
  ### Multivariate Data
- Using Seaborn Iris dataset create scatter plots and bar charts [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/multivariate_data.ipynb)]
+ Create scatter plots and bar charts [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/multivariate_data.ipynb)]
  

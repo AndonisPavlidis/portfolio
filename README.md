@@ -3,24 +3,24 @@
 ![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/apavlidis/portfolio/blob/master/LICENSE) 
   
-This is a continuously updated repo of my never ending journey to deeper understand data science, machine learning 
-and other related topics.
-
-Introducing various topics using Jupyter Notebooks, while keeping a balance between intuition, mathematical notation 
-and implementation in Python.
-
-## Table of Contents  
+  
+- [Introduction](#introduction)
 - [Understanding and Visualising data](#understanding-and-visualising-data)
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
+      
+## Introduction
+  
+This is a continuously updated repo of my never ending journey to deeper understand data science, machine learning 
+and other related topics. I introduce various topics using Jupyter Notebooks, while keeping a balance between intuition, mathematical notation and implementation in Python.
     
-### Understanding and Visualising data
+## Understanding and Visualising data
  
 Pandas, Matplotlib and Seaborn
  
- #### Univariate Data
+ ### Univariate Data
  Describe Seaborn Tips dataset and create histograms, boxplots [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/univariate_data.ipynb)]
  
- #### Multivariate Data
+ ### Multivariate Data
  Describe Seaborn Iris dataset and create scatterplots, barcharts [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/multivariate_data.ipynb)]
  

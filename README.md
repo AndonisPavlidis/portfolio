@@ -16,7 +16,7 @@ and other related topics. I introduce various topics using Jupyter Notebooks, wh
     
 ## Understanding and Visualising data
  
-Using Pandas, Matplotlib and Seaborn to describe and visualise data. I prefer using colour blind friendly visualisations. At times this choice sacrifices how good a visualisation may look, but I feel its a small tradeoff to have an inclusive framework.
+Describe and visualise data using Pandas, Matplotlib and Seaborn. I prefer using colour blind friendly visualisations. At times this choice sacrifices how good a visualisation may look, but I feel its a small tradeoff for a more inclusive framework.
  
  ### Univariate Data
  Describe Seaborn Tips dataset and create histograms, boxplots [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/univariate_data.ipynb)]

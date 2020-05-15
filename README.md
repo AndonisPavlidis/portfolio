@@ -19,8 +19,8 @@ and implementation in Python.
 Pandas, Matplotlib and Seaborn
  
  ### Univariate Data
- Describe Seaborn Tips dataset and create histograms, box plots [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/univariate_data.ipynb)]
+ Describe Seaborn Tips dataset and create histograms, boxplots [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/univariate_data.ipynb)]
  
  ### Multivariate Data
- Describe Seaborn Iris dataset and create scatter plots and bar charts [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/multivariate_data.ipynb)]
+ Describe Seaborn Iris dataset and create scatterplots, barcharts [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/multivariate_data.ipynb)]
  

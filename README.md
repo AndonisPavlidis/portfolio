@@ -12,15 +12,15 @@ and implementation in Python.
 - Table of Contents  
     - [Understanding and Visualising data](#understanding-and-visualising-data)
         - [Univariate Data](#univariate-data)
-        - [Multivatiate Data](#multivariate-data)
+        - [Multivariate Data](#multivariate-data)
     
 ## Understanding and Visualising data
  
 Using Pandas, Matplotlib and Seaborn to describe and visualise a dataset
  
  ### Univariate Data
- Using Seaborn Tips dataset create histograms and box plots
+ Using Seaborn Tips dataset create histograms and box plots [notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/univariate_data.ipynb)
  
  ### Multivariate Data
- Using Seaborn Iris dataset create scatter plots and bar charts
+ Using Seaborn Iris dataset create scatter plots and bar charts [notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/multivariate_data.ipynb)
  

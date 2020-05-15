@@ -13,9 +13,9 @@ and implementation in Python.
     - [Understanding and Visualising data](#understanding-and-visualising-data)
         - [Univariate Data](#univariate-data)
     
-# Understanding and Visualising data
+## Understanding and Visualising data
  
 Using Pandas, Matplotlib and Seaborn to describe and visualise a dataset
  
- ## Univariate Data
+ ### Univariate Data
  

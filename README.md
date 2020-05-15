@@ -10,9 +10,9 @@ Introducing various topics using Jupyter Notebooks, while keeping a balance betw
 and implementation in Python.
 
 ## Table of Contents  
-    - [Understanding and Visualising data](#understanding-and-visualising-data)
-        - [Univariate Data](#univariate-data)
-        - [Multivariate Data](#multivariate-data)
+- [Understanding and Visualising data](#understanding-and-visualising-data)
+    - [Univariate Data](#univariate-data)
+    - [Multivariate Data](#multivariate-data)
     
 ### Understanding and Visualising data
  

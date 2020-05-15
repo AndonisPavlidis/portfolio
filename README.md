@@ -9,18 +9,18 @@ and other related topics.
 Introducing various topics using Jupyter Notebooks, while keeping a balance between intuition, mathematical notation 
 and implementation in Python.
 
-- Table of Contents  
+## Table of Contents  
     - [Understanding and Visualising data](#understanding-and-visualising-data)
         - [Univariate Data](#univariate-data)
         - [Multivariate Data](#multivariate-data)
     
-## Understanding and Visualising data
+### Understanding and Visualising data
  
 Pandas, Matplotlib and Seaborn
  
- ### Univariate Data
+ #### Univariate Data
  Describe Seaborn Tips dataset and create histograms, boxplots [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/univariate_data.ipynb)]
  
- ### Multivariate Data
+ #### Multivariate Data
  Describe Seaborn Iris dataset and create scatterplots, barcharts [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/multivariate_data.ipynb)]
  

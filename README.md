@@ -9,7 +9,7 @@
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
 - [Statistics](#statistics)
-    - [Confidence Intervals](#confidence-intevals)
+    - [Confidence Intervals](#confidence-intervals)
       
 ## Introduction
   
@@ -29,3 +29,4 @@ Describe and visualise data using Pandas, Matplotlib and Seaborn. I prefer using
 ## Statistics
 
 ## Confidence Intervals
+Compare populations with samples. Point Estimates. Central Limit Theorem. [[notebook](https://github.com/apavlidis/portfolio/blob/master/statistics/confidence_intervals.ipynb)]

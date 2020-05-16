@@ -8,6 +8,8 @@
 - [Understanding and Visualising data](#understanding-and-visualising-data)
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
+- [Statistics](#statistics)
+    - [Confidence Intervals](#confidence-intevals)
       
 ## Introduction
   
@@ -24,3 +26,6 @@ Describe and visualise data using Pandas, Matplotlib and Seaborn. I prefer using
  ### Multivariate Data
  Describe Seaborn Iris dataset and create scatterplots, barcharts [[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/multivariate_data.ipynb)]
  
+## Statistics
+
+## Confidence Intervals

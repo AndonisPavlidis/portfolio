@@ -30,7 +30,7 @@ Describe and visualise data using Pandas, Matplotlib and Seaborn. I prefer using
 ## Statistics
 
 ### Confidence Intervals
-WIP: Compare populations with samples. Point Estimates. Central Limit Theorem. [[notebook](https://github.com/apavlidis/portfolio/blob/master/statistics/confidence_intervals.ipynb)]
+WIP: Compare populations with samples. Point Estimates. Central Limit Theorem. Confidence Intervals [[notebook](https://github.com/apavlidis/portfolio/blob/master/statistics/confidence_intervals.ipynb)]
 
 ### Hypothesis Testing
 WIP

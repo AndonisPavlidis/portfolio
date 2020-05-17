@@ -10,6 +10,7 @@
     - [Multivariate Data](#multivariate-data)
 - [Statistics](#statistics)
     - [Confidence Intervals](#confidence-intervals)
+    - [Hypothesis Testing](#hypothesis-testing)
       
 ## Introduction
   
@@ -28,5 +29,11 @@ Describe and visualise data using Pandas, Matplotlib and Seaborn. I prefer using
  
 ## Statistics
 
-## Confidence Intervals
-Compare populations with samples. Point Estimates. Central Limit Theorem. [[notebook](https://github.com/apavlidis/portfolio/blob/master/statistics/confidence_intervals.ipynb)]
+### Confidence Intervals
+WIP: Compare populations with samples. Point Estimates. Central Limit Theorem. [[notebook](https://github.com/apavlidis/portfolio/blob/master/statistics/confidence_intervals.ipynb)]
+
+### Hypothesis Testing
+WIP
+
+### Distributions
+WIP: https://www.datacamp.com/community/tutorials/probability-distributions-python

@@ -5,3 +5,4 @@ jupyter==1.0.0
 scipy==1.4.1
 numpy==1.18.4
 statsmodels==0.11.1
+nptyping==1.0.1

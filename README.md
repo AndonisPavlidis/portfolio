@@ -8,7 +8,7 @@
 - [Understanding and Visualising data](#understanding-and-visualising-data)
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
-- [Statistics](#statistics)
+- [Frequentist Statistics](#frequentist-statistics)
     - [Confidence Intervals](#confidence-intervals)
     - [Hypothesis Testing](#hypothesis-testing)
       

@@ -22,15 +22,15 @@ mathematical notation and implementation in Python.
     
 ## Visualising data
  
-Using Python to visualise data and create dashboards
+Visualise data and create dashboards (matplotlib, seaborn, plotly, dash)
  
 #### Univariate Data
 histograms, boxplots (matplotlib, seaborn) 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/univariate_data.ipynb)]
+[[notebook](https://github.com/apavlidis/portfolio/blob/master/visualising_data/univariate_data.ipynb)]
  
 #### Multivariate Data
 scatterplots, barcharts (matplotlib, seaborn) 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/understanding_visualising_data/multivariate_data.ipynb)]
+[[notebook](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb)]
  
 #### Dashboards - WIP
 creating and hosting a dashboard (plotly, dash) 
@@ -38,19 +38,19 @@ creating and hosting a dashboard (plotly, dash)
  
 ## Frequentist Statistics
 
-Using Python to understand frequentist statistics
+Understanding and implementing frequentist statistics
 
 ### Point Estimate and Central Limit Theorem
 
-Intuition behind a point estimate and the Central Limit Theorem
+Intuition of a point estimate and the Central Limit Theorem [[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb)]
 
 ### Confidence Intervals
 
-Proportion and mean, difference in proportions and means, paired data  [[notebook](https://github.com/apavlidis/portfolio/blob/master/statistics/confidence_intervals.ipynb)]
+Proportion and mean, difference in proportions and means, paired data [[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/confidence_intervals.ipynb)]
 
 ### Hypothesis Testing - WIP
 
-Intuition behind hypothesis testing using a simulated coin flip
+Intuition of hypothesis testing using a simulated coin flip [[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/hypothesis_testing.ipynb)]
 
 ### Distributions
 Various distributions and their characteristics

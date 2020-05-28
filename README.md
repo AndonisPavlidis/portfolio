@@ -13,6 +13,7 @@
     - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
     - [Confidence Intervals](#confidence-intervals)
     - [Hypothesis Testing - WIP](#hypothesis-testing)
+    - [Distributions - WIP](#distributions)
       
 ## Introduction
   

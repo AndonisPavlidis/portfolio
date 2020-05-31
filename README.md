@@ -24,12 +24,9 @@ This is a continuously updated repo of my never ending journey to deeper underst
 and other related topics. I introduce various topics using Jupyter Notebooks, while keeping a balance between intuition, 
 mathematical notation and implementation in Python.
 
-Each topic may be read in isolation, however each subtopic builds on the previous subtopic.
+Click on the subtopic links to open the relevant notebook.
 
-## Visualising data
- 
-Visualise data and create dashboards (matplotlib, seaborn, plotly, dash)
- 
+## Visualising data 
 ##### [Univariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/univariate_data.ipynb) 
 histograms, boxplots (matplotlib, seaborn)
 ##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb) 
@@ -38,9 +35,6 @@ scatterplots, barcharts (matplotlib, seaborn)
 ```WIP``` creating and hosting a dashboard (plotly, dash)
  
 ## Frequentist Statistics
-
-Understanding and implementing frequentist statistics
-
 ##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb) 
 Intuition of a point estimate and the Central Limit Theorem 
 

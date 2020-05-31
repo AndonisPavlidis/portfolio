@@ -16,6 +16,20 @@
     - [Power and Sample Size](#power-and-sample-size) ```WIP```
     - [Shuffling and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
     - [Distributions](#distributions) ```WIP```
+- [Supervised Learning](#supervised-learning) ``WIP``
+    - [Regression Models](#regression-models) 
+        - [Linear Regression](#linear-regression)
+        - [Logistic Regresssion](#logistic-regression)
+        - [Stepwise Regression](#stepwise-regression)
+        - [Ridge Regression](#ridge-regression)
+        - [Lasso Regression](#lasso-regression)
+        - [ElasticNet Regression](#elasticnet-regression)
+    - [Tress](#trees)
+        - [Decision Tree](#decision-tree)
+        - [Random Forest](#random-forest)
+        - [Gradient Boosting Machine](#gradient-boosting-machine)
+        - [XG Boost](#xg-boost)
+        
 - [Resources](#resources)
 
 ## Introduction

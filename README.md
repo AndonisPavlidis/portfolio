@@ -16,18 +16,19 @@ Each topic may be read in isolation, however each subtopic builds on the previou
  
 Visualise data and create dashboards (matplotlib, seaborn, plotly, dash)
  
-##### [Univariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/univariate_data.ipynb): histograms, boxplots (matplotlib, seaborn)
-##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb): scatterplots, barcharts (matplotlib, seaborn) 
-##### [Dashboards](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644): creating and hosting a dashboard (plotly, dash)
+##### [Univariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/univariate_data.ipynb) 
+histograms, boxplots (matplotlib, seaborn)
+##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb) 
+scatterplots, barcharts (matplotlib, seaborn) 
+##### [Dashboards](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644) 
+creating and hosting a dashboard (plotly, dash)
  
 ## Frequentist Statistics
 
 Understanding and implementing frequentist statistics
 
-### Point Estimate and Central Limit Theorem
-
+##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb) 
 Intuition of a point estimate and the Central Limit Theorem 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb)]
 
 ### Confidence Intervals
 

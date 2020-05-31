@@ -24,7 +24,7 @@
         - [Ridge Regression](#ridge-regression)
         - [Lasso Regression](#lasso-regression)
         - [ElasticNet Regression](#elasticnet-regression)
-    - [Tress](#trees)
+    - [Tree Based Models](#tree-based-models)
         - [Decision Tree](#decision-tree)
         - [Random Forest](#random-forest)
         - [Gradient Boosting Machine](#gradient-boosting-machine)

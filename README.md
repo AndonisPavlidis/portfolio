@@ -2,7 +2,7 @@
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/apavlidis/portfolio/blob/master/LICENSE) 
-        
+
 - [Introduction](#introduction)
 - [Visualising data](#visualising-data)
     - [Univariate Data](#univariate-data)
@@ -24,9 +24,10 @@ This is a continuously updated repo of my never ending journey to deeper underst
 and other related topics. I introduce various topics using Jupyter Notebooks, while keeping a balance between intuition, 
 mathematical notation and implementation in Python.
 
-Click on the subtopic links to open the relevant notebook.
+Click on topic link to open relevant notebook.
 
 ## Visualising data 
+
 ##### [Univariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/univariate_data.ipynb) 
 histograms, boxplots (matplotlib, seaborn)
 ##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb) 

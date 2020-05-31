@@ -7,15 +7,15 @@
 - [Visualising data](#visualising-data)
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
-    - [Dashboards - WIP](#dashboards)
+    - [Dashboards](#dashboards)
 - [Frequentist Statistics](#frequentist-statistics)
     - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
     - [Confidence Intervals](#confidence-intervals)
     - [Hypothesis Testing](#hypothesis-testing)
     - [AB Testing](#ab-testing)
-    - [Power and Sample Size - WIP](#power-and-sample-size)
-    - [Shuffling and Bootstrapping - WIP](#shuffling-and-bootstrapping)
-    - [Distributions - WIP](#distributions)
+    - [Power and Sample Size](#power-and-sample-size)
+    - [Shuffling and Bootstrapping](#shuffling-and-bootstrapping)
+    - [Distributions](#distributions)
 - [Resources](#resources)
 
 ## Introduction
@@ -34,8 +34,8 @@ Visualise data and create dashboards (matplotlib, seaborn, plotly, dash)
 histograms, boxplots (matplotlib, seaborn)
 ##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb) 
 scatterplots, barcharts (matplotlib, seaborn) 
-##### [Dashboards-WIP](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644) 
-creating and hosting a dashboard (plotly, dash)
+##### [Dashboards](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644) 
+```WIP``` creating and hosting a dashboard (plotly, dash)
  
 ## Frequentist Statistics
 
@@ -56,13 +56,13 @@ Example of setting up an AB Test for e-commerce
 ##### [Power and Sample Size](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_and_sample_size.ipynb)
 Explaining Statistical Power vs Confidence Level and using both to determine Sample Size 
 
-##### [Shuffling and Bootstrapping - WIP](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
-How do use shuffling and bootstrapping 
+##### [Shuffling and Bootstrapping](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
+```WIP```How do use shuffling and bootstrapping 
 
-##### [Distributions - WIP](https://www.datacamp.com/community/tutorials/probability-distributions-python) 
-Various distributions and their characteristics
+##### [Distributions](https://www.datacamp.com/community/tutorials/probability-distributions-python) 
+```WIP```Various distributions and their characteristics
 
-## References
+## Resources
 ##### Visualising Data
 [Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data/)  
 ##### Frequentist Statistics

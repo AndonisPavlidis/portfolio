@@ -7,15 +7,15 @@
 - [Visualising data](#visualising-data)
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
-    - [Dashboards](#dashboards)
+    - [Dashboards](#dashboards) ```WIP```
 - [Frequentist Statistics](#frequentist-statistics)
     - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
     - [Confidence Intervals](#confidence-intervals)
     - [Hypothesis Testing](#hypothesis-testing)
     - [AB Testing](#ab-testing)
-    - [Power and Sample Size](#power-and-sample-size)
-    - [Shuffling and Bootstrapping](#shuffling-and-bootstrapping)
-    - [Distributions](#distributions)
+    - [Power and Sample Size](#power-and-sample-size) ```WIP```
+    - [Shuffling and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
+    - [Distributions](#distributions) ```WIP```
 - [Resources](#resources)
 
 ## Introduction

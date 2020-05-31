@@ -3,12 +3,12 @@
 ![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/apavlidis/portfolio/blob/master/LICENSE) 
 
-- [Introduction](#introduction)
+- [Introduction](#introduction) 
 - [Visualising data](#visualising-data)
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
     - [Dashboards](#dashboards) ```WIP```
-- [Frequentist Statistics](#frequentist-statistics)
+- [Frequentist Statistics](#frequentist-statistics) 
     - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
     - [Confidence Intervals](#confidence-intervals)
     - [Hypothesis Testing](#hypothesis-testing)
@@ -16,19 +16,19 @@
     - [Power and Sample Size](#power-and-sample-size) ```WIP```
     - [Shuffling and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
     - [Distributions](#distributions) ```WIP```
-- [Supervised Learning](#supervised-learning) ``WIP``
+- [Supervised Learning](#supervised-learning)
     - [Regression Models](#regression-models) 
-        - [Linear Regression](#linear-regression)
-        - [Logistic Regresssion](#logistic-regression)
-        - [Stepwise Regression](#stepwise-regression)
-        - [Ridge Regression](#ridge-regression)
-        - [Lasso Regression](#lasso-regression)
-        - [ElasticNet Regression](#elasticnet-regression)
+        - [Linear Regression](#linear-regression) ``WIP``
+        - [Logistic Regresssion](#logistic-regression) ``WIP``
+        - [Stepwise Regression](#stepwise-regression) ``WIP``
+        - [Ridge Regression](#ridge-regression) ``WIP``
+        - [Lasso Regression](#lasso-regression) ``WIP``
+        - [ElasticNet Regression](#elasticnet-regression) ``WIP``
     - [Tree Based Models](#tree-based-models)
-        - [Decision Tree](#decision-tree)
-        - [Random Forest](#random-forest)
-        - [Gradient Boosting Machine](#gradient-boosting-machine)
-        - [XG Boost](#xg-boost)
+        - [Decision Tree](#decision-tree) ``WIP``
+        - [Random Forest](#random-forest) ``WIP``
+        - [Gradient Boosting Machine](#gradient-boosting-machine) ``WIP``
+        - [XG Boost](#xg-boost) ``WIP``
         
 - [Resources](#resources)
 

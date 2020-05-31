@@ -2,23 +2,7 @@
 
 ![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/apavlidis/portfolio/blob/master/LICENSE) 
-  
-  
-- [Introduction](#introduction)
-- [Visualising data](#visualising-data)
-    - [Univariate Data](#univariate-data)
-    - [Multivariate Data](#multivariate-data)
-    - [Dashboards - WIP](#dashboards)
-- [Frequentist Statistics](#frequentist-statistics)
-    - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
-    - [Confidence Intervals](#confidence-intervals)
-    - [Hypothesis Testing](#hypothesis-testing)
-    - [AB Testing](#ab-testing)
-    - [Power and Sample Size - WIP](#power-and-sample-size)
-    - [Shuffling and Bootstrapping - WIP](#shuffling-and-bootstrapping)
-    - [Distributions - WIP](#distributions)
-- [Resources](#resources)
-      
+        
 ## Introduction
   
 This is a continuously updated repo of my never ending journey to deeper understand data science, machine learning 
@@ -32,17 +16,9 @@ Each topic may be read in isolation, however each subtopic builds on the previou
  
 Visualise data and create dashboards (matplotlib, seaborn, plotly, dash)
  
-#### Univariate Data
-histograms, boxplots (matplotlib, seaborn) 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/visualising_data/univariate_data.ipynb)]
- 
-### Multivariate Data
-scatterplots, barcharts (matplotlib, seaborn) 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb)]
- 
-### Dashboards - WIP
-creating and hosting a dashboard (plotly, dash) 
-[[WIP](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)]
+##### [Univariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/univariate_data.ipynb): histograms, boxplots (matplotlib, seaborn)
+##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb): scatterplots, barcharts (matplotlib, seaborn) 
+##### [Dashboards](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644): creating and hosting a dashboard (plotly, dash)
  
 ## Frequentist Statistics
 

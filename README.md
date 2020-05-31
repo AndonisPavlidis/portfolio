@@ -67,7 +67,7 @@ Example of setting up an AB Test for e-commerce
 Type II errors and statistical power
 
 ##### [Sample Size](-)
-What sample size do we need?
+```WIP```What sample size do we need?
 
 ##### [Shuffling and Bootstrapping](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
 ```WIP```How do use shuffling and bootstrapping 

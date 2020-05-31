@@ -49,7 +49,7 @@ Intuition of hypothesis testing using a simulated coin flip
 Example of setting up an AB Test for e-commerce 
 
 ##### [Power and Sample Size](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_and_sample_size.ipynb)
-Explaining Statistical Power vs Confidence Level and using both to determine Sample Size 
+```WIP```Explaining Statistical Power vs Confidence Level and using both to determine Sample Size 
 
 ##### [Shuffling and Bootstrapping](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
 ```WIP```How do use shuffling and bootstrapping 

@@ -71,7 +71,7 @@ Example of setting up an AB Test for e-commerce
 #### Power and Sample Size
 
 Explaining Statistical Power vs Confidence Level and using both to determine Sample Size 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_and_sample_size.ipynbipynb)]
+[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_and_sample_size.ipynb)]
 
 #### Shuffling and Bootstrapping - WIP
 

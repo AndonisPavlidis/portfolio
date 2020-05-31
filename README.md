@@ -48,39 +48,45 @@ creating and hosting a dashboard (plotly, dash)
 
 Understanding and implementing frequentist statistics
 
-### Point Estimate and Central Limit Theorem
+#### Point Estimate and Central Limit Theorem
 
-Intuition of a point estimate and the Central Limit Theorem [[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb)]
+Intuition of a point estimate and the Central Limit Theorem 
+[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb)]
 
-### Confidence Intervals
+#### Confidence Intervals
 
-Proportion and mean, difference in proportions and means, paired data [[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/confidence_intervals.ipynb)]
+Proportion and mean, difference in proportions and means, paired data 
+[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/confidence_intervals.ipynb)]
 
-### Hypothesis Testing
+#### Hypothesis Testing
 
-Intuition of hypothesis testing using a simulated coin flip [[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/hypothesis_testing.ipynb)]
+Intuition of hypothesis testing using a simulated coin flip 
+[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/hypothesis_testing.ipynb)]
 
-### AB Testing
+#### AB Testing
 
-Example of setting up an AB Test for e-commerce
+Example of setting up an AB Test for e-commerce 
+[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/ab_testing.ipynb)]
 
-### Power and Sample Size - WIP
+#### Power and Sample Size
 
-Explaining Statistical Power vs Confidence Level and using both to determine Sample Size
+Explaining Statistical Power vs Confidence Level and using both to determine Sample Size 
+[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_and_sample_size.ipynbipynb)]
 
-### Shuffling and Bootstrapping - WIP
+#### Shuffling and Bootstrapping - WIP
 
 How do use shuffling and bootstrapping 
+
 [[WIP](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)]
 
-### Distributions - WIP
+#### Distributions - WIP
 Various distributions and their characteristics
 [[WIP](https://www.datacamp.com/community/tutorials/probability-distributions-python)]
 
 ## References
-#### Visualising Data
+##### Visualising Data
 [Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data/)  
-#### Frequentist Statistics
+##### Frequentist Statistics
 [Coursera: Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python/)  
 [Notebook: Statistics for Hackers](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)  
 [YouTube: Beautiful AB Testing](https://www.youtube.com/watch?v=EvDg7ssY0M8)   

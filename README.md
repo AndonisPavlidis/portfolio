@@ -11,7 +11,6 @@ mathematical notation and implementation in Python.
 
 Each topic may be read in isolation, however each subtopic builds on the previous subtopic.
 
-    
 ## Visualising data
  
 Visualise data and create dashboards (matplotlib, seaborn, plotly, dash)
@@ -20,7 +19,7 @@ Visualise data and create dashboards (matplotlib, seaborn, plotly, dash)
 histograms, boxplots (matplotlib, seaborn)
 ##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb) 
 scatterplots, barcharts (matplotlib, seaborn) 
-##### [Dashboards](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644) 
+##### [Dashboards-WIP](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644) 
 creating and hosting a dashboard (plotly, dash)
  
 ## Frequentist Statistics
@@ -30,35 +29,23 @@ Understanding and implementing frequentist statistics
 ##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb) 
 Intuition of a point estimate and the Central Limit Theorem 
 
-### Confidence Intervals
+##### [Confidence Intervals](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/confidence_intervals.ipynb) 
+Proportion and mean, difference in proportions and means, paired data
 
-Proportion and mean, difference in proportions and means, paired data 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/confidence_intervals.ipynb)]
-
-### Hypothesis Testing
-
+##### [Hypothesis Testing](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/hypothesis_testing.ipynb)
 Intuition of hypothesis testing using a simulated coin flip 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/hypothesis_testing.ipynb)]
 
-### AB Testing
-
+##### [AB Testing](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/ab_testing.ipynb)
 Example of setting up an AB Test for e-commerce 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/ab_testing.ipynb)]
 
-### Power and Sample Size
-
+##### [Power and Sample Size](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_and_sample_size.ipynb)
 Explaining Statistical Power vs Confidence Level and using both to determine Sample Size 
-[[notebook](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_and_sample_size.ipynb)]
 
-### Shuffling and Bootstrapping - WIP
-
+##### [Shuffling and Bootstrapping - WIP](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
 How do use shuffling and bootstrapping 
 
-[[WIP](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)]
-
-### Distributions - WIP
+##### [Distributions - WIP](https://www.datacamp.com/community/tutorials/probability-distributions-python) 
 Various distributions and their characteristics
-[[WIP](https://www.datacamp.com/community/tutorials/probability-distributions-python)]
 
 ## References
 ##### Visualising Data

@@ -8,8 +8,6 @@
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
     - [Plotly](#plotly)
-    - [Jupyter Dash Dashboard](#jupyter-dash-dashboard)```WIP```
-    - [Dash Dashboard](#dash-dashboard)```WIP```
 - [Frequentist Statistics](#frequentist-statistics) 
     - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
     - [Confidence Intervals](#confidence-intervals)

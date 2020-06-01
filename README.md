@@ -7,6 +7,7 @@
 - [Visualising data](#visualising-data)
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
+    - [Plotly](#plotly)
     - [Dashboards](#dashboards) ```WIP```
 - [Frequentist Statistics](#frequentist-statistics) 
     - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
@@ -44,11 +45,13 @@ Click on topic link to open relevant notebook.
 ## Visualising data 
 
 ##### [Univariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/univariate_data.ipynb) 
-histograms, boxplots (matplotlib, seaborn)
+histograms, boxplots using matplotlib & seaborn
 ##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb) 
-scatterplots, barcharts (matplotlib, seaborn) 
+scatterplots, barcharts using matplotlib & seaborn
+#### [Plotly](https://github.com/apavlidis/portfolio/blob/master/visualising_data/plotly.ipynb) 
+univariate data, multivariate data, maps using plotly
 ##### [Dashboards](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644) 
-```WIP``` creating and hosting a dashboard (plotly, dash)
+```WIP``` creating and hosting a dashboard using plotly and dash
  
 ## Frequentist Statistics
 ##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb) 

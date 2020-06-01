@@ -19,15 +19,6 @@
     - [Regression Models](#regression-models) 
         - [Linear Regression](#linear-regression) ``WIP``
         - [Logistic Regresssion](#logistic-regression) ``WIP``
-        - [Stepwise Regression](#stepwise-regression) ``WIP``
-        - [Ridge Regression](#ridge-regression) ``WIP``
-        - [Lasso Regression](#lasso-regression) ``WIP``
-        - [ElasticNet Regression](#elasticnet-regression) ``WIP``
-    - [Tree Based Models](#tree-based-models)
-        - [Decision Tree](#decision-tree) ``WIP``
-        - [Random Forest](#random-forest) ``WIP``
-        - [Gradient Boosting Machine](#gradient-boosting-machine) ``WIP``
-        - [XG Boost](#xg-boost) ``WIP``
         
 - [Resources](#resources)
 

@@ -49,11 +49,11 @@ Click on topic link to open relevant notebook.
 histograms, boxplots using matplotlib & seaborn
 ##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb) 
 scatterplots, barcharts using matplotlib & seaborn
-#### [Plotly](https://github.com/apavlidis/portfolio/blob/master/visualising_data/plotly.ipynb) 
+##### [Plotly](https://github.com/apavlidis/portfolio/blob/master/visualising_data/plotly.ipynb) 
 univariate data, multivariate data, maps using plotly
 ##### [Jupyter Dash Dashboard](https://github.com/apavlidis/portfolio/blob/master/visualising_data/jupyter_dash_dashboard.ipynb) 
 creating a dashboard in jupyter using plotly and jupyter-dash
-#### [Dash Dashboard](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)
+##### [Dash Dashboard](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)
 ```WIP```creating a dashboard using plotly and dash
  
 ## Frequentist Statistics

@@ -16,9 +16,8 @@
     - [Power Analysis](#power-analysis)```WIP```
     - [Shuffling and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
 - [Supervised Learning](#supervised-learning)
-    - [Regression Models](#regression-models) 
-        - [Linear Regression](#linear-regression) ``WIP``
-        - [Logistic Regresssion](#logistic-regression) ``WIP``
+    - [Linear Regression](#linear-regression) ``WIP``
+    - [Logistic Regresssion](#logistic-regression) ``WIP``
         
 - [Resources](#resources)
 
@@ -59,10 +58,9 @@ Introduce statistical power and perform a power analysis
 ```WIP```How do use shuffling and bootstrapping 
 
 ## Resources
-##### Visualising Data
-[Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data/)  
-##### Frequentist Statistics
-[Coursera: Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python/)  
+[Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  
+[Coursera: Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)  
+[Coursera: Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)
 [Notebook: Statistics for Hackers](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)  
 [YouTube: Beautiful AB Testing](https://www.youtube.com/watch?v=EvDg7ssY0M8)   
 [Blog: Point Estimates and Confidence Intervals](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-23-point.html)   

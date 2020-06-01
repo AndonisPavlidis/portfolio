@@ -8,17 +8,15 @@
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
     - [Plotly](#plotly)
-    - [Jupyter Dash Dashboard](#jupyter-dash-dashboard)
+    - [Jupyter Dash Dashboard](#jupyter-dash-dashboard)```WIP```
     - [Dash Dashboard](#dash-dashboard)```WIP```
 - [Frequentist Statistics](#frequentist-statistics) 
     - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
     - [Confidence Intervals](#confidence-intervals)
     - [Hypothesis Testing](#hypothesis-testing)
     - [AB Testing](#ab-testing)
-    - [Statistical Power](#statistical-power)
-    - [Sample Size](#sample-size) ```WIP```
+    - [Power Analysis](#power-analysis)```WIP```
     - [Shuffling and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
-    - [Distributions](#distributions) ```WIP```
 - [Supervised Learning](#supervised-learning)
     - [Regression Models](#regression-models) 
         - [Linear Regression](#linear-regression) ``WIP``
@@ -46,15 +44,11 @@ Click on topic link to open relevant notebook.
 ## Visualising data 
 
 ##### [Univariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/univariate_data.ipynb) 
-histograms, boxplots using matplotlib & seaborn
+Plot histograms, boxplots using matplotlib & seaborn
 ##### [Multivariate Data](https://github.com/apavlidis/portfolio/blob/master/visualising_data/multivariate_data.ipynb) 
-scatterplots, barcharts using matplotlib & seaborn
+Plot scatterplots, barcharts using matplotlib & seaborn
 ##### [Plotly](https://github.com/apavlidis/portfolio/blob/master/visualising_data/plotly.ipynb) 
-univariate data, multivariate data, maps using plotly
-##### [Jupyter Dash Dashboard](https://github.com/apavlidis/portfolio/blob/master/visualising_data/jupyter_dash_dashboard.ipynb) 
-creating a dashboard in jupyter using plotly and jupyter-dash
-##### [Dash Dashboard](https://medium.com/swlh/dashboards-in-python-for-beginners-and-everyone-else-using-dash-f0a045a86644)
-```WIP```creating a dashboard using plotly and dash
+Plot univariate data, multivariate data, maps using plotly
  
 ## Frequentist Statistics
 ##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb) 
@@ -69,17 +63,11 @@ Intuition of hypothesis testing using a simulated coin flip
 ##### [AB Testing](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/ab_testing.ipynb)
 Example of setting up an AB Test for e-commerce 
 
-##### [Statistical Power](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics//statistical_power.ipynb)
-Type II errors and statistical power
-
-##### [Sample Size](-)
-```WIP```What sample size do we need?
+##### [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power-analysis.ipynb)
+Introduce statistical power and perform a power analysis
 
 ##### [Shuffling and Bootstrapping](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
 ```WIP```How do use shuffling and bootstrapping 
-
-##### [Distributions](https://www.datacamp.com/community/tutorials/probability-distributions-python) 
-```WIP```Various distributions and their characteristics
 
 ## Resources
 ##### Visualising Data
@@ -92,4 +80,5 @@ Type II errors and statistical power
 [Blog: What are P-Values?](https://prateekvjoshi.com/2013/12/07/what-are-p-values/)  
 [Blog: How to work with AB Test Data](https://medium.com/@carsonforter/how-to-work-with-a-b-test-data-96121b89d1a4)  
 [Blog: So, You Need a Statistically Significant Sample?](https://multithreaded.stitchfix.com/blog/2015/05/26/significant-sample/)  
-[Blog: Five puzzling outcomes](http://notes.stephenholiday.com/Five-Puzzling-Outcomes.pdf)  
+[Blog: Five puzzling outcomes](http://notes.stephenholiday.com/Five-Puzzling-Outcomes.pdf)
+[Blog: Statistical Power and Power Analysis](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)  

@@ -9,3 +9,4 @@ nptyping==1.0.1
 plotly==4.8.1
 psutil==5.7.0
 requests==2.23.0
+jupyter-dash==0.2.1.post1

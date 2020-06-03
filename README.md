@@ -51,7 +51,7 @@ Intuition of hypothesis testing using a simulated coin flip
 ##### [AB Testing](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/ab_testing.ipynb)
 Example of setting up an AB Test for e-commerce 
 
-##### [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power-analysis.ipynb)
+##### [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_analysis.ipynb)
 Introduce statistical power and perform a power analysis
 
 ##### [Shuffling and Bootstrapping](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)

@@ -8,17 +8,17 @@
     - [Univariate Data](#univariate-data)
     - [Multivariate Data](#multivariate-data)
     - [Plotly](#plotly)
-- [Frequentist Statistics](#frequentist-statistics) 
+- [Statistics](#statistics) 
     - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
     - [Confidence Intervals](#confidence-intervals)
     - [Hypothesis Testing](#hypothesis-testing)
     - [AB Testing](#ab-testing)
-    - [Power Analysis](#power-analysis)```WIP```
-    - [Shuffling and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
+    - [Power Analysis](#power-analysis)
+    - [Common Probability Distributions](#common-probability-distributions) ```WIP```
+    - [Shuffling, Jackknifing and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
 - [Supervised Learning](#supervised-learning)
     - [Linear Regression](#linear-regression) ``WIP``
-    - [Logistic Regresssion](#logistic-regression) ``WIP``
-        
+    - [Logistic Regression](#logistic-regression) ``WIP``       
 - [Resources](#resources)
 
 ## Introduction
@@ -38,7 +38,7 @@ Plot scatterplots, barcharts using matplotlib & seaborn
 ##### [Plotly](https://github.com/apavlidis/portfolio/blob/master/visualising_data/plotly.ipynb) 
 Plot univariate data, multivariate data, maps using plotly
  
-## Frequentist Statistics
+## Statistics
 ##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb) 
 Intuition of a point estimate and the Central Limit Theorem 
 
@@ -52,10 +52,13 @@ Intuition of hypothesis testing using a simulated coin flip
 Example of setting up an AB Test for e-commerce 
 
 ##### [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_analysis.ipynb)
-Introduce statistical power and perform a power analysis
+Introduce statistical power and performing a power analysis
 
-##### [Shuffling and Bootstrapping](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
-```WIP```How do use shuffling and bootstrapping 
+##### [Common Probability Distributions](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/common_probability_distributions.ipynb)
+```WIP```Various common probability distributions
+
+##### [Shuffling, Jackknifing and Bootstrapping](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
+```WIP```How do use shuffling, jackknifing and bootstrapping 
 
 ## Resources
 [Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  
@@ -68,4 +71,6 @@ Introduce statistical power and perform a power analysis
 [Blog: How to work with AB Test Data](https://medium.com/@carsonforter/how-to-work-with-a-b-test-data-96121b89d1a4)  
 [Blog: So, You Need a Statistically Significant Sample?](https://multithreaded.stitchfix.com/blog/2015/05/26/significant-sample/)  
 [Blog: Five puzzling outcomes](http://notes.stephenholiday.com/Five-Puzzling-Outcomes.pdf)
-[Blog: Statistical Power and Power Analysis](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)  
+[Blog: Statistical Power and Power Analysis](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)
+[Blog: Probability Distributions in Python](https://www.datacamp.com/community/tutorials/probability-distributions-python)
+[Blog: Probability Distribution Explorer](http://bois.caltech.edu/distribution_explorer/index.html)

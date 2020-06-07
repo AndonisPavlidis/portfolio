@@ -64,6 +64,7 @@ Introduce statistical power and performing a power analysis
 
 ##### Visualisation 
 [Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  
+[Blog: Introducing Plotly Express](https://medium.com/plotly/introducing-plotly-express-808df010143d)
 
 ##### Statistics
 [Coursera: Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)  

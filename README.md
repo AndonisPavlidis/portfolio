@@ -61,9 +61,12 @@ Introduce statistical power and performing a power analysis
 ```WIP```How do use shuffling, jackknifing and bootstrapping 
 
 ## Resources
+
+##### Visualisation 
 [Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  
+
+##### Statistics
 [Coursera: Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)  
-[Coursera: Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)
 [Notebook: Statistics for Hackers](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)  
 [YouTube: Beautiful AB Testing](https://www.youtube.com/watch?v=EvDg7ssY0M8)   
 [Blog: Point Estimates and Confidence Intervals](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-23-point.html)   
@@ -74,3 +77,7 @@ Introduce statistical power and performing a power analysis
 [Blog: Statistical Power and Power Analysis](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)
 [Blog: Probability Distributions in Python](https://www.datacamp.com/community/tutorials/probability-distributions-python)
 [Blog: Probability Distribution Explorer](http://bois.caltech.edu/distribution_explorer/index.html)
+
+##### Supervised Learning
+[Coursera: Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)
+

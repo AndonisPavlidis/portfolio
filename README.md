@@ -17,8 +17,7 @@
     - [Common Probability Distributions](#common-probability-distributions) ```WIP```
     - [Shuffling, Jackknifing and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
 - [Supervised Learning](#supervised-learning)
-    - [Linear Regression](#linear-regression) ``WIP``
-    - [Logistic Regression](#logistic-regression) ``WIP``       
+    - [Simple Linear Regression](#simple-linear-regression) ``WIP``     
 - [Resources](#resources)
 
 ## Introduction
@@ -39,28 +38,31 @@ Plot scatterplots, barcharts using matplotlib & seaborn
 Plot univariate data, multivariate data, maps using plotly
  
 ## Statistics
-##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/point_estimate_and_clt.ipynb) 
+##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/statistics/point_estimate_and_clt.ipynb) 
 Intuition of a point estimate and the Central Limit Theorem 
 
-##### [Confidence Intervals](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/confidence_intervals.ipynb) 
+##### [Confidence Intervals](https://github.com/apavlidis/portfolio/blob/master/statistics/confidence_intervals.ipynb) 
 Proportion and mean, difference in proportions and means, paired data
 
-##### [Hypothesis Testing](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/hypothesis_testing.ipynb)
+##### [Hypothesis Testing](https://github.com/apavlidis/portfolio/blob/master/statistics/hypothesis_testing.ipynb)
 Intuition of hypothesis testing using a simulated coin flip 
 
-##### [AB Testing](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/ab_testing.ipynb)
+##### [AB Testing](https://github.com/apavlidis/portfolio/blob/master/statistics/ab_testing.ipynb)
 Example of setting up an AB Test for e-commerce 
 
-##### [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/power_analysis.ipynb)
+##### [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/statistics/power_analysis.ipynb)
 Introduce statistical power and performing a power analysis
 
-##### [Common Probability Distributions](https://github.com/apavlidis/portfolio/blob/master/frequentist_statistics/common_probability_distributions.ipynb)
-```WIP```Various common probability distributions
+##### [Common Probability Distributions](https://github.com/apavlidis/portfolio/blob/master/statistics/common_probability_distributions.ipynb)
+```WIP``` Uniform, Bernoulli
 
 ##### [Shuffling, Jackknifing and Bootstrapping](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
 ```WIP```How do use shuffling, jackknifing and bootstrapping 
 
 ## Resources
+
+##### Reference Text Books
+[Book: An Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
 
 ##### Visualisation 
 [Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  

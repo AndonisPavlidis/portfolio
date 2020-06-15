@@ -18,7 +18,6 @@
     - [Shuffling, Jackknifing and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
 - [Linear Algebra](#linear-algebra)
     - [Vectors](#vectors)
- 
 - [Build from Scratch](#build-from-scratch)
     - [k-Nearest Neighbours](#k-nearest-neighbours)
 - [Resources](#resources)

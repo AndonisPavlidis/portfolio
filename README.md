@@ -16,6 +16,9 @@
     - [Power Analysis](#power-analysis)
     - [Common Probability Distributions](#common-probability-distributions) ```WIP```
     - [Shuffling, Jackknifing and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
+- [Linear Algebra](#linear-algebra)
+    - [Vectors](#vectors)
+ 
 - [Build from Scratch](#build-from-scratch)
     - [k-Nearest Neighbours](#k-nearest-neighbours)
 - [Resources](#resources)
@@ -36,7 +39,7 @@ Plot histograms, boxplots using matplotlib & seaborn
 Plot scatterplots, barcharts using matplotlib & seaborn
 ##### [Plotly](https://github.com/apavlidis/portfolio/blob/master/visualising_data/plotly.ipynb) 
 Plot univariate data, multivariate data, maps using plotly
- 
+
 ## Statistics
 ##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/statistics/point_estimate_and_clt.ipynb) 
 Intuition of a point estimate and the Central Limit Theorem 
@@ -64,18 +67,16 @@ Introduce statistical power and performing a power analysis
 
 ## Resources
 
-##### Reference Text Books
-[Book: An Introduction to Statistical Learning](https://faculty.marshall.usc.edu/gareth-james/ISL/ISLR%20Seventh%20Printing.pdf)
+##### Text Books
 [Book: Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 
-##### Visualisation 
+##### MOOCs 
 [Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  
-[Blog: Introducing Plotly Express](https://medium.com/plotly/introducing-plotly-express-808df010143d)
-
-##### Statistics
 [Coursera: Inferential Statistical Analysis with Python](https://www.coursera.org/learn/inferential-statistical-analysis-python)  
-[Notebook: Statistics for Hackers](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)  
-[YouTube: Beautiful AB Testing](https://www.youtube.com/watch?v=EvDg7ssY0M8)   
+[Coursera: Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)
+
+##### Blogs:
+[Blog: Introducing Plotly Express](https://medium.com/plotly/introducing-plotly-express-808df010143d)
 [Blog: Point Estimates and Confidence Intervals](http://hamelg.blogspot.com/2015/11/python-for-data-analysis-part-23-point.html)   
 [Blog: What are P-Values?](https://prateekvjoshi.com/2013/12/07/what-are-p-values/)  
 [Blog: How to work with AB Test Data](https://medium.com/@carsonforter/how-to-work-with-a-b-test-data-96121b89d1a4)  
@@ -85,6 +86,9 @@ Introduce statistical power and performing a power analysis
 [Blog: Probability Distributions in Python](https://www.datacamp.com/community/tutorials/probability-distributions-python)  
 [Blog: Probability Distribution Explorer](http://bois.caltech.edu/distribution_explorer/index.html)
 
-##### Supervised Learning
-[Coursera: Fitting Statistical Models to Data with Python](https://www.coursera.org/learn/fitting-statistical-models-data-python)
+##### Notebooks
+[Notebook: Statistics for Hackers](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)  
+
+##### Videos
+[YouTube: Beautiful AB Testing](https://www.youtube.com/watch?v=EvDg7ssY0M8)   
 

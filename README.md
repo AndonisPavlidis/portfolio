@@ -16,10 +16,6 @@
     - [Power Analysis](#power-analysis)
     - [Common Probability Distributions](#common-probability-distributions) ```WIP```
     - [Shuffling, Jackknifing and Bootstrapping](#shuffling-and-bootstrapping) ```WIP```
-- [Linear Algebra](#linear-algebra)
-    - [Vectors](#vectors)
-- [Build from Scratch](#build-from-scratch)
-    - [k-Nearest Neighbours](#k-nearest-neighbours)
 - [Resources](#resources)
 
 ## Introduction
@@ -61,13 +57,8 @@ Introduce statistical power and performing a power analysis
 ##### [Shuffling, Jackknifing and Bootstrapping](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)
 ```WIP```How do use shuffling, jackknifing and bootstrapping 
 
-## Build from Scratch
-#### [k-Nearest Neighbours](https://github.com/apavlidis/portfolio/blob/master/supervised_learning/k_nearest_neighbours.ipynb)
 
 ## Resources
-
-##### Text Books
-[Book: Data Science from Scratch, 2nd Edition](https://www.oreilly.com/library/view/data-science-from/9781492041122/)
 
 ##### MOOCs 
 [Coursera: Understanding and Visualizing Data with Python](https://www.coursera.org/learn/understanding-visualization-data)  

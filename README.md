@@ -73,8 +73,8 @@ Introduce statistical power and performing a power analysis
 [Blog: So, You Need a Statistically Significant Sample?](https://multithreaded.stitchfix.com/blog/2015/05/26/significant-sample/)  
 [Blog: Five puzzling outcomes](http://notes.stephenholiday.com/Five-Puzzling-Outcomes.pdf)
 [Blog: Statistical Power and Power Analysis](https://machinelearningmastery.com/statistical-power-and-power-analysis-in-python/)
-[Blog: Probability Distributions in Python](https://www.datacamp.com/community/tutorials/probability-distributions-python)  
 [Blog: Probability Distribution Explorer](http://bois.caltech.edu/distribution_explorer/index.html)
+[Blog: Science Isn't Broken: p-hacking activity](https://fivethirtyeight.com/features/science-isnt-broken/#part1)
 
 ##### Notebooks
 [Notebook: Statistics for Hackers](https://nbviewer.jupyter.org/github/croach/statistics-for-hackers/blob/master/statistics-for-hackers.ipynb)  

@@ -10,6 +10,8 @@
     - [Hypothesis Testing](#hypothesis-testing)
     - [AB Testing](#ab-testing)
     - [Power Analysis](#power-analysis)
+- [Machine Learning](#machine_learning)
+    - [Poisson and Negative Binomial Regression](#poisson_and_negative_binomial_regression)
 
 ## Introduction
   
@@ -34,5 +36,9 @@ Example of setting up an AB Test for e-commerce
 
 ##### [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/statistics/power_analysis.ipynb)
 Introduce statistical power and performing a power analysis
+
+## Machine Learning
+##### [Poisson and Negative Binomial Regression](https://github.com/apavlidis/portfolio/blob/master/machine_learning/poisson_and_negative_binomial_regression.ipynb)
+Introducing Generalised Least Square regression for Count data
 
 

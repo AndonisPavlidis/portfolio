@@ -3,16 +3,6 @@
 ![Python 3.8](https://img.shields.io/badge/python-3.8-blue.svg)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://github.com/apavlidis/portfolio/blob/master/LICENSE) 
 
-- [Introduction](#introduction)
-- [Statistics](#statistics) 
-    - [Point Estimate and Central Limit Theorem](#point-estimate-and-central-limit-theorem)
-    - [Confidence Intervals](#confidence-intervals)
-    - [Hypothesis Testing](#hypothesis-testing)
-    - [AB Testing](#ab-testing)
-    - [Power Analysis](#power-analysis)
-- [Machine Learning](#machine_learning)
-    - [Poisson and Negative Binomial Regression](#poisson_and_negative_binomial_regression)
-
 ## Introduction
   
 This is a continuously updated repo of my never ending journey to deeper understand data science, machine learning 

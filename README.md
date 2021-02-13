@@ -28,7 +28,9 @@ Set up an AB Test for e-commerce,
 Statistical power. Perform a power analysis.
 
 ## Machine Learning
-##### [Poisson and Negative Binomial Regression](https://github.com/apavlidis/portfolio/blob/master/machine_learning/poisson_and_negative_binomial_regression.ipynb)
-Generalised Linear Models for Count data. Poisson Process. Inverse Transform Sampling. Poisson Model Specification. Maximum Likelihood Estimation.
+
+### Generalised Linear Models
+##### [Poisson Regression](https://github.com/apavlidis/portfolio/blob/master/machine_learning/poisson_regression.ipynb)
+Poisson Process. Inverse Transform Sampling. Poisson Model Specification. Maximum Likelihood Estimation. Poisson Regression model. 
 
 

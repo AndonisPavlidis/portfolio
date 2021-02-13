@@ -13,22 +13,22 @@ Click on topic link to open relevant notebook.
 
 ## Statistics
 ##### [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/statistics/point_estimate_and_clt.ipynb) 
-Intuition of a point estimate and the Central Limit Theorem 
+Point estimate. Central Limit Theorem.
 
 ##### [Confidence Intervals](https://github.com/apavlidis/portfolio/blob/master/statistics/confidence_intervals.ipynb) 
-Proportion and mean, difference in proportions and means, paired data
+Proportion and mean. Difference in proportions and means. Paired data.
 
 ##### [Hypothesis Testing](https://github.com/apavlidis/portfolio/blob/master/statistics/hypothesis_testing.ipynb)
-Intuition of hypothesis testing using a simulated coin flip 
+Hypothesis testing using a simulated coin flip.
 
 ##### [AB Testing](https://github.com/apavlidis/portfolio/blob/master/statistics/ab_testing.ipynb)
-Example of setting up an AB Test for e-commerce 
+Set up an AB Test for e-commerce, 
 
 ##### [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/statistics/power_analysis.ipynb)
-Introduce statistical power and performing a power analysis
+Statistical power. Perform a power analysis.
 
 ## Machine Learning
 ##### [Poisson and Negative Binomial Regression](https://github.com/apavlidis/portfolio/blob/master/machine_learning/poisson_and_negative_binomial_regression.ipynb)
-Introducing Generalised Least Square regression for Count data
+Generalised Linear Models for Count data. Poisson Process. Inverse Transform Sampling. Poisson Model Specification. Maximum Likelihood Estimation.
 
 

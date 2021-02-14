@@ -33,6 +33,9 @@ Statistical power. Analytical approach to power analysis.
 
 ### Generalised Linear Models
 ##### 1. [Poisson Regression](https://github.com/apavlidis/portfolio/blob/master/machine_learning/poisson_regression.ipynb)
-Poisson Process. Inverse Transform Sampling. Poisson Model Specification. Maximum Likelihood Estimation. Poisson Regression model. 
+Poisson Process. Inverse Transform Sampling. Poisson Model Specification. Maximum Likelihood Estimation. 
+Poisson Regression model. Pearson Chi-Square.
 
+##### 2. [Negative Binomial Regression](https://github.com/apavlidis/portfolio/blob/master/machine_learning/negative_binomial_regression.ipynb)
+Negative Binomial Model Specification. Auxiliary Ordinary Least Squares. Likelihood-ratio Test.
 

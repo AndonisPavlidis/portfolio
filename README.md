@@ -22,10 +22,10 @@ Proportion and mean. Difference in proportions and means. Paired data.
 Hypothesis testing using a simulated coin flip.
 
 ##### 4. [AB Testing](https://github.com/apavlidis/portfolio/blob/master/statistics/ab_testing.ipynb)
-Set up an AB Test for e-commerce, 
+Set up an AB Test for e-commerce.
 
 ##### 5. [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/statistics/power_analysis.ipynb)
-Statistical power. Perform a power analysis.
+Statistical power. Analytical approach to power analysis.
 
 ## Machine Learning
 

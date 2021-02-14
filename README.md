@@ -11,7 +11,9 @@ mathematical notation and implementation in Python.
 
 Click on topic link to open relevant notebook.
 
-## Statistics
+**Please note topics are meant to be read in order where one notebook builds on the knowledge of the previous notebook.**
+
+## I. Statistics
 ##### 1. [Point Estimate and Central Limit Theorem](https://github.com/apavlidis/portfolio/blob/master/statistics/point_estimate_and_clt.ipynb) 
 Point estimate. Central Limit Theorem.
 
@@ -27,7 +29,7 @@ Set up an AB Test for e-commerce.
 ##### 5. [Power Analysis](https://github.com/apavlidis/portfolio/blob/master/statistics/power_analysis.ipynb)
 Statistical power. Analytical approach to power analysis.
 
-## Machine Learning
+## II. Machine Learning
 
 ### Generalised Linear Models
 ##### 1. [Poisson Regression](https://github.com/apavlidis/portfolio/blob/master/machine_learning/poisson_regression.ipynb)

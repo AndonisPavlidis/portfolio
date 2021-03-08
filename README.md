@@ -37,5 +37,6 @@ Poisson Process. Inverse Transform Sampling. Poisson Model Specification. Maximu
 Poisson Regression model. Pearson Chi-Square.
 
 ##### 2. [Negative Binomial Regression](https://github.com/apavlidis/portfolio/blob/master/machine_learning/negative_binomial_regression.ipynb)
-Negative Binomial Model Specification. Auxiliary Ordinary Least Squares. Likelihood-ratio Test.
+Negative Binomial Model Specification. Auxiliary Ordinary Least Squares. Likelihood-r
+atio Test.
 

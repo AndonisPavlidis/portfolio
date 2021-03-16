@@ -42,5 +42,5 @@ atio Test.
 
 ## Books
 ##### 1. [Data Science from Scratch](https://github.com/AndonisPavlidis/portfolio/tree/master/data_science_from_scratch) 
-Scratch pad for Joel Grus's Data Science from Scratch usin first pricinple in python
+Scratch pad for Joel Grus's Data Science from Scratch using first principles in python
 
